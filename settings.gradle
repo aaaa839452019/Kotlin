@@ -1,0 +1,4 @@
+include ':base'
+include ':lesson'
+include ':app'
+rootProject.name = "My Application"
